@@ -1,2 +1,2 @@
 # minimo2
-This is my 2nd project...
+https://sowa-n.github.io/minimo2/
